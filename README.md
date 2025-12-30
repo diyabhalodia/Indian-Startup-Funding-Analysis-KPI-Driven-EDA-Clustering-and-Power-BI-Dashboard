@@ -64,7 +64,7 @@ It contains details of funding for Indian startups, including **funding amount, 
 The interactive **Power BI Dashboard (`4_Dashboarding.pbix`)** provides a comprehensive view of the **10 SQL KPIs** implemented in this project.  
 It visually tracks key metrics computed using MySQL enabling stakeholders to quickly derive insights.  
 
-![Power BI Dashboard](./assets/dash_ss.png)
+![Dashboard_Screenshot](INDIAN STARTUP\ASSET.png")
 
 ---
 
@@ -98,4 +98,10 @@ It visually tracks key metrics computed using MySQL enabling stakeholders to qui
 - Consumer Internet & FinTech dominate funding sectors.  
 - Early-stage & late-stage funding dominate, while mid-stage funding is less frequent.  
 - Clustering shows diverse funding requirements across startups.  
+---
+
+## 👤 Author
+**Diya**  
+Aspiring Data Analyst | Python • SQL • Power BI • Statistics 
+
 ---
