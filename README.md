@@ -64,7 +64,7 @@ It contains details of funding for Indian startups, including **funding amount, 
 The interactive **Power BI Dashboard (`4_Dashboarding.pbix`)** provides a comprehensive view of the **10 SQL KPIs** implemented in this project.  
 It visually tracks key metrics computed using MySQL enabling stakeholders to quickly derive insights.  
 
-![Dashboard Screenshot](INDIAN%20STARTUP/ASSET.png)
+![Power BI Dashboard](INDIAN%20STARTUP/ASSET.png)
 
 
 ---
